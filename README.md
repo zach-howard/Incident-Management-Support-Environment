@@ -1,6 +1,6 @@
 ## What Is This
 
-This document presents a comprehensive strategy for improving how IT support teams handle incidents—focusing on reducing downtime, streamlining workflows, implementing automation, and aligning with ITIL best practices.
+This document presents a comprehensive strategy for improving how IT support teams manage incidents, with a focus on reducing downtime, streamlining workflows, implementing automation, and aligning with ITIL best practices.
 
 ## Who Should Use This
 
